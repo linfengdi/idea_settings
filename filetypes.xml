@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="test" type="HTML" />
       <mapping ext="2018-06-21" type="PLAIN_TEXT" />
+      <mapping ext="original" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
